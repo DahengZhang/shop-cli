@@ -1,0 +1,22 @@
+{
+  "name": "shop-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "shop": "./bin/shop.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.0",
+    "download-git-repo": "^2.0.0",
+    "inquirer": "^6.5.1",
+    "ora": "^3.4.0"
+  }
+}
